@@ -43,7 +43,7 @@ export default function Header() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-3 group">
             <div className="w-10 h-10 rounded-xl overflow-hidden border border-brand-gold/30 group-hover:border-brand-gold transition-colors duration-300">
-              <img src="/assets/Logo.png" alt="Italprotein" className="w-full h-full object-cover" />
+              <img src="/assets/Logo Officiale.png" alt="Italprotein" className="w-full h-full object-cover" />
             </div>
             <div className="hidden sm:block">
               <div className="text-white font-bold text-sm leading-none">Proamina®</div>

@@ -152,7 +152,7 @@ export const translations = {
           title: 'Sauces & Spreads',
           desc: 'Sweet sauces, creams, toppings, and functional spreads. Adds innovation to sweet formats with an improved nutritional profile.',
           opportunity: 'Functional spreads with improved nutritional profile.',
-          image: '/assets/bustina-cappuccino.jpg',
+          image: '/assets/crema-caffe.png',
         },
         {
           emoji: '🍽️',
